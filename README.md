@@ -1,3 +1,3 @@
 # MachineLearning_coursera
 
-Weekly work
+Weekly coursera work
