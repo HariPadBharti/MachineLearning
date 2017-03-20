@@ -1,3 +1,3 @@
 # MachineLearning_coursera
 
-Weekly coursera work online!
+Weekly Coursera work online!
