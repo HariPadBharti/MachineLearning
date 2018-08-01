@@ -1,21 +1,15 @@
 # MachineLearning
 
-Self Learning - Work on Coursera 
+Self Learning from online resource Coursera 
 Utilities in the project.
-Weekly Coursera work online!
-
-
 Go to Nbviewer: https://nbviewer.jupyter.org/ and see full graphical interface.
 
-## Week 1
-
-## Week 2
-
-## Week 3
-Classification
-
-## Week 4
-Nearest Neighbour, Cosine Distances, TF-IDF, Word Count
-## Week 5
-
-## Week 6
+Topics covered:-
+1. Classification
+2. Regression
+3. Clustering
+4. Similarity Models
+5. Nearest Neighbour
+6. Cosine Distances
+7. NLP
+8. TF-IDF
